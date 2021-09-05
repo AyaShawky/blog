@@ -47,7 +47,7 @@ Route::middleware(['auth'])->group(function(){
     Route::get('/search/{text}', [Controller::class,'index']);
 
 // });
-
+//test
 //     Route::get('/', [HomeController::class, "index"]);
 //     Route::get('/{post}', [HomeController::class, "show"]);
 //     Route::post('/saveComment/{post}', [HomeController::class, "saveComment"]);
