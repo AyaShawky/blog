@@ -13,7 +13,7 @@ use Illuminate\Support\Facades\Auth;
 | contains the "web" middleware group. Now create something great!
 |
 */
-
+//test2
 // Route::get('/post', function () {
 //     return view('post');
 // // });
